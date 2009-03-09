@@ -100,7 +100,7 @@ module Render
         clear{visit '/drawing'}
       end      
       
-      menu 'Language', %w[English Japanese], 0, pr1, crimson do |b, f, i, e|
+      menu 'Language', %w[English Japanese Portuguese], 0, pr1, crimson do |b, f, i, e|
         b.move 0, i*23
         f.move 0, i*23
         para e, "\n", :stroke => green, :weight => 'bold'
