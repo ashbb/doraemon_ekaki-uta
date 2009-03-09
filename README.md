@@ -24,7 +24,7 @@ Japanese lyric version.
 
 Change log:
 -----------
-Mar 9th, 2009: Added Portuguese liric. <br>
+Mar 9th, 2009: Added Portuguese lyric. <br>
 Mar 7th, 2009: Updated from r0.5 to r0.8. This revision supports multi language lyrics. Now have English and Japanese.
 
 Wish:
