@@ -24,8 +24,9 @@ Japanese lyric version.
 
 Change log:
 -----------
-Mar 9th, 2009: Added Portuguese lyric. <br>
-Mar 7th, 2009: Updated from r0.5 to r0.8. This revision supports multi language lyrics. Now have English and Japanese.
+Mar 10th, 2009: Added German lyric. <br>
+Mar 09th, 2009: Added Portuguese lyric. <br>
+Mar 07th, 2009: Updated from r0.5 to r0.8. This revision supports multi language lyrics. Now have English and Japanese.
 
 Wish:
 -----
@@ -33,6 +34,7 @@ Someone translates the lyric to another languages. ;-)
 
 Acknowledgment
 --------------
+German lyric was created by [Michael Kohl](http://citizen428.net/). Thanks! <br>
 Portuguese lyric was created by [Marcos Ricardo](http://www.marcric.com/). Thanks!
 
 Have fun! <br>
