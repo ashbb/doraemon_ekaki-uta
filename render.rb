@@ -90,7 +90,7 @@ module Render
     style Shoes::Link, :stroke => green, :underline => nil
     style Shoes::LinkHover, :stroke => green, :fill => nil, :underline => nil
     
-    flow :left => 270, :top => 160, :width => 100 do
+    flow :left => 270, :top => 150, :width => 100 do
       pr1 = proc do|i, e|
         lyrics = IO.readlines("./lyrics/#{e.downcase}.txt")
         $lyrics = []
